@@ -8,9 +8,9 @@ const client = new Client({
   ]
 });
 
-const TOKEN = 'TOKEN_HASIL_RESET_TERBARU_KAMU';
-const GUILD_ID = '885847193716662342';
-const CHANNEL_ID = '885847193716662346';
+const TOKEN = '';
+const GUILD_ID = '';
+const CHANNEL_ID = '';
 
 function connectToVoice() {
   const guild = client.guilds.cache.get(GUILD_ID);
